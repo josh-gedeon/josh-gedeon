@@ -12,4 +12,4 @@ interested in AI and software development.
 - 🤖 A Discord bot powered by OpenAI's API
 
 ## 📫 Connect with Me
-- 📧 Coming soon — LinkedIn profile in progress!
+- 📧 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/josh-gedeon)
