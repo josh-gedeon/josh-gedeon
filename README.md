@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Joshua 👋
 
-<!--
-**josh-gedeon/josh-gedeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an incoming Computer Science student at **McGill University** (Fall 2026),
+interested in AI and software development.
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- 🐍 Python
+- 🤖 AI / Machine Learning (learning)
+- 💬 French & English (bilingual)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm Building
+- 🤖 A Discord bot powered by OpenAI's API
+
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/josh-gedeon)
