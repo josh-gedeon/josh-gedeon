@@ -8,8 +8,8 @@ interested in AI and software development.
 - 🤖 AI / Machine Learning (learning)
 - 💬 French & English (bilingual)
 
-## 🚀 What I'm Building
-- 🤖 A Discord bot powered by OpenAI's API
+## 🚀 What I Built
+- 🤖 A Discord bot powered by Groq's API
 
 ## 📫 Connect with Me
 - 📧 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/josh-gedeon)
