@@ -4,7 +4,7 @@ I'm an incoming Computer Science student at **McGill University** (Fall 2026),
 interested in AI and software development.
 
 ## 🔧 Skills
-- 🐍 Python
+- 🐍 Python (learning)
 - 🤖 AI / Machine Learning (learning)
 - 💬 French & English (bilingual)
 
